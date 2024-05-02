@@ -7,7 +7,7 @@
     "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
     "build": "tailwindcss -i ./input.css -o ./css/style.css"
   },
-  "author": "Brad Traversy",
+  "author": "Muhammad Naseer",
   "license": "MIT",
   "devDependencies": {
     "tailwindcss": "^3.2.7"
